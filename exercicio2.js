@@ -2,6 +2,6 @@
 
 let prompt = require("prompt-sync")()
 
-for (contador = 0; contador <= 10; contador += 2) {
+for (contador = 2; contador <= 10; contador += 2) {
     console.log(contador)
 }
